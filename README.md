@@ -2,7 +2,7 @@
 
 An interactive map for teaching the Thirteen Colonies. Click a colony and it lights up while every other colony stays grey.
 
-**Live version:** https://YOURUSERNAME.github.io/thirteen-colonies/
+**Live version:** https://tanman310.github.io/thirteen-colonies/
 
 ## Using it in class
 
